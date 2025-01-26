@@ -1,6 +1,6 @@
 {
   "name": "broly-theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "assets/broly.png",
   "keywords": [
     "broly",
@@ -31,6 +31,8 @@
   "description": "Tema do Broly com as principais cores do personagem",
   "displayName": "Broly-theme",
   "license": "MIT",
+  "baseContentUrl": "https://github.com/dev-alm/tema-broly-vscode",
+  "baseImagesUrl": "https://github.com/dev-alm/tema-broly-vscode/blob/main/imagens",
   "dependencies": {
     "vsce": "^2.15.0"
   }
