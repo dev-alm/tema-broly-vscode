@@ -12,11 +12,11 @@ Ideal para quem busca um ambiente de codificação poderoso, moderno e cheio de 
 
 ### **Editor**
 
-![Editor Preview](./imagens/img01.png)
+![Editor Preview](https://github.com/dev-alm/tema-broly-vscode/blob/main/imagens/img01.png)
 
 ### **Paleta de Cores**
 
-![Color Palette](./imagens/img02.png)
+![Color Palette](https://github.com/dev-alm/tema-broly-vscode/blob/main/imagens/img02.png)
 
 ---
 
