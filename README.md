@@ -28,10 +28,10 @@ Ideal para quem busca um ambiente de codificação poderoso, moderno e cheio de 
 | Texto principal | Verde Neon   | `#00FF00`   |
 | Destaques       | Dourado      | `#FFD700`   |
 | Comentários     | Verde Suave  | `#7FFF00`   |
-| Seleção         | Verde Escuro | `#006400`   |
-| Seleção         | Roxo Escuro  | `#6823ff`   |
-| Seleção         | Roxo Suave   | `#6823ff52` |
-| Seleção         | Azul Escuro  | `#1b0056`   |
+| Cor Principal   | Verde Escuro | `#006400`   |
+| Seleção 01      | Roxo Escuro  | `#6823ff`   |
+| Seleção 02      | Roxo Suave   | `#6823ff52` |
+| Fundo Altern.   | Azul Escuro  | `#1b0056`   |
 
 ---
 
