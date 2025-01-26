@@ -1,0 +1,37 @@
+{
+  "name": "broly-theme",
+  "version": "0.0.3",
+  "icon": "assets/broly.png",
+  "keywords": [
+    "broly",
+    "Dragon ball",
+    "green",
+    "verde"
+  ],
+  "publisher": "dev-alm",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Broly Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/broly-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce package --no-yarn"
+  },
+  "description": "Tema do Broly com as principais cores do personagem",
+  "displayName": "Broly-theme",
+  "license": "MIT",
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
